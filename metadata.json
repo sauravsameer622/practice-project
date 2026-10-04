@@ -1,0 +1,6 @@
+{
+  "name": "EduTrack - Student Management System",
+  "description": "Comprehensive academic registry, DOM manipulation engine, and student performance management console for educators and administrators.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
